@@ -25,3 +25,6 @@ yarn-error.log*
 
 /.idea
 .vscode
+
+new_user_credentials.csv
+admin_accessKeys.csv
