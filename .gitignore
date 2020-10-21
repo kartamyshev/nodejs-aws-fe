@@ -28,3 +28,9 @@ yarn-error.log*
 
 new_user_credentials.csv
 admin_accessKeys.csv
+
+# package directories
+jspm_packages
+
+# Serverless directories
+.serverless

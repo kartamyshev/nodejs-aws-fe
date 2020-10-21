@@ -1,3 +1,5 @@
+## AWS
+
 `aws iam get-user --user-name admin`  
 
 `aws ec2 describe-hosts`  
@@ -12,3 +14,7 @@ aws ce get-cost-and-usage \
 
 
 // Arn - Amazon Resource Name
+
+## Serverless
+
+`serverless create --template aws-nodejs --path ./sl` - initialize
